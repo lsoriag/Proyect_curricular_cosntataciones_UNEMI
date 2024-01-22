@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "491302861643",
+    "project_id": "proyecto-curricular",
+    "storage_bucket": "proyecto-curricular.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491302861643:android:adc123ffdaabbf4a7306ce",
+        "android_client_info": {
+          "package_name": "Simerplay.proyect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491302861643-lo7c41dk6slivut192lga24qstv9sj0o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Simerplay.proyect",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "491302861643-r7op9vd50lanha67grpve6k8v8394k46.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Simerplay.proyect",
+            "certificate_hash": "a6ddbb53402aaf7902d48b537a5a325730ae48b0"
+          }
+        },
+        {
+          "client_id": "491302861643-voq5upq8oj1dvknce876lrdgnppres4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvS2hc3HxiZHk-Mo97sejPF-KO8n_EFZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491302861643-voq5upq8oj1dvknce876lrdgnppres4n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "491302861643-qs2rd5j7crl6vpgou0a6h4kn5krcts5j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Simerplay.proyect"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
